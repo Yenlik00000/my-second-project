@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> 
+   <title>Document</title>
+</head>
+<body>
+    <h1>Miss Yenlik</h1>
+    <p>My <a id="aro" href="https://www.instagram.com/_ssserikkkyzy_?igsh=MTVhbGt4czM0N2lneQ%3D%3D&utm_source=qr">instagram </a></p> 
+        <p>My <a href="https://www.tiktok.com/@_ssserykkkyzy_?_t=8pReeTuWQmU&_r=1">tik tok </a></p>
+    <h3><strong>Favourite foods</strong></h3>
+    <ol>
+      <em>
+        <li><a href="https://arbuz.com/recipes/beshbarmak/">The food my mother cooks:beshbarmak,plov,sorpa</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Fast_food" >Fast foods:pizza,sushi,chicken</a></li>
+        <li><a href="https://sallysbakingaddiction.com/category/desserts/cakes/" >Red barkat,cakes</a></li>
+      </em>
+    </ol>
+    <img src="https://daryo.uz/static/2023/Mokhinur%20Sultanova/IMG_6850.jpeg" width="300" height="300" alt="Beshbarmak">
+    <img src="https://healthnewshub.org/wp-content/uploads/2024/03/Fast-Food-Restaurants.jpg" width="300" height="300" alt="Fast food">
+    <img src="https://d319jos44pwdns.cloudfront.net/sites/files/lissecakes/productimg/202211/1200x1200/photo_6289347742744555778_y.jpg" width="300" height="300" alt="Cakes">
+ </h3>
+    <hr>
+    <h3>Qualities that I prefer</h3>
+    <ol>
+       <em>
+         <li><a href="https://en.wikipedia.org/wiki/Morality">Morality</a></li>
+         <li><a href="https://en.wikipedia.org/wiki/Honesty">Honesty</a></li>
+         <li><a href="https://en.wikipedia.org/wiki/Intelligence">Intelegence</a></li>
+       </em>
+    </ol>
+    <hr>
+    <h3>Achievements</h3>
+    <p>I have a college promotion 100% <progress value="100" max="100"></p>
+    <p>I won a lot of competitons from DEBATE 100% <progress value="100" max="100"></p>
+    <p>I study in the best college in KZ 95% <progress value="95" max="100"></p>
+    <p>I improved my level of English 85% <progress value="85" max="100"></p>
+    <hr>
+    <h3> Things to improve myself</h3>
+      <ol>
+        <li><a href="https://www.youtube.com/playlist?list=PL1Dp5sz1OfQqzSEBuP7T-qaqBeQwbbOHy"> I love listen podcasts</a></li>
+        <li><a href="https://www.goodreads.com/shelf/show/psychology" >I like read psychology books</a></li>
+        <li><a href="https://doramy.club/28489-schaste.html">I like to watch k-dramas</a></li>
+        <li><a href="https://www.instagram.com/kabylbek.ustaz/?hl=en">I like to listen audios from imam)</a></li>
+      </ol>
+      <hr>
+    <h3> My favourite movies</h3>
+       <ol>
+          <li><a href="https://doramy.club/28489-schaste.html">Happiness</a></li>
+          <li><a href="https://www.unicornacademy.com">Academy unicorns</a></li>
+          <li><a id="aro" href="https://www.netflix.com/kz-ru/title/81707950">Queen of the tears</a></li>
+       </ol>
+       <img src="https://occ-0-8407-999.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRBhm0dIKS0_3m0rHh-4UQlcjXhUcOdqcTNvKUFtV-5dQkMZ0XevoHyUPJELO9_zta6wez4R-MS14l2xBMtJSqFpGq_9PMqxOSo.jpg?r=295" width="300" height="400" alt="Happiness">
+       <img src="https://m.media-amazon.com/images/M/MV5BYmNlYzg5ODQtYTk5Zi00N2VkLThiMWMtMTY4MGUzYWVkNmVjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" width="300" height="400" alt="Academy unicorns">
+       <img src="https://m.media-amazon.com/images/M/MV5BNWNmYmQ2NzctNTA1NS00NGU2LThjOTQtYTgxNmUyYmNjODYyXkEyXkFqcGc@._V1_.jpg" width="300" height="400" alt="Queen of the tears">
+    <hr>
+    <h3>Songs,I listen when I have the time </h3>
+    <ol>
+       <li><a href="https://www.youtube.com/watch?v=dYQTR124dz0">Diamonds</a></li>
+       <li><a href="https://www.youtube.com/watch?v=XwxLwG2_Sxk">Blinding lights</a></li>
+       <li><a href="https://www.youtube.com/watch?v=zsGHdGHHwd8">Bored</a></li>
+    </ol>
+    <hr>
+   <h3>More about me</h3> 
+      <details>
+          <summary id="aro">My childhood and hobbies</summary>
+          <h4>I was born on March 21, 2008 in the village of Sarykemer. I am the first child in my family. My parents brought me upvery well. I am a manly and eldest daughter of the house. I have 3 siblings after me. I grew up as a naughty girl.I have to say something about myself. Sometimes it is hard to introduce yourself because you know yourself so well that you do not know where to start with. Let me give a try to see what kind of image you have about me through my self-description. I hope that my impression about myself and your impression about me are not so different. Here it goes.
+
+            I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I like to read, I like to write; I like to think, I like to dream; I like to talk, I like to listen. I like to see the sunrise in the morning, I like to see the moonlight at night; I like to feel the music flowing on my face, I like to smell the wind coming from the ocean. I like to look at the clouds in the sky with a blank mind, I like to do thought experiment when I cannot sleep in the middle of the night. I like flowers in spring, rain in summer, leaves in autumn, and snow in winter. I like to sleep early, I like to get up late; I like to be alone, I like to be surrounded by people. I like country’s peace, I like metropolis’ noise; I like the beautiful west lake in Hangzhou, I like the flat cornfield in Champaign. I like delicious food and comfortable shoes; I like good books and romantic movies. I like the land and the nature, I like people. And, I like to laugh.
+           
+            I always wanted to be a great writer, like Victor Hugo who wrote "Les Miserable", or like Roman Roland who wrote "John Christopher". They have influenced millions of people through their books. I also wanted to be a great psychologist, like William James or Sigmund Freud, who could read people’s mind. Of course, I am nowhere close to these people, yet. I am just someone who does some teaching, some research, and some writing. But my dream is still alive.
+           
+           This is a brief introduction of myself.My hobby is reading
+
+           My hobby is reading. I like to read books in my free time. I like funny stories, fairy tales, and poems for children.
+           
+           I like to read fairy tales very much. My favourite fairy tale is "The Snow Queen" by Hans Christian Andersen. I have read it several times. Gerda is my favourite fairy-tale character.
+           
+           I usually read in the evening before sleep. I also like to read in a garden or in a park, sitting on a bench.
+           
+           Recently I began to read short stories in English. It is difficult for me to read in English.
+           
+           But I want to learn English, and I want to read books in English.My hobby is swimming (2)
+
+           My hobby is swimming. I go to the swimming pool five times a week. My swimming pool is very good. The pool is 25 metres long and has six lanes. More than a thousand children have swimming lessons there every month.
+           
+           My swimming instructor is experienced and friendly, but he is also strict. He teaches us to swim well and to be careful in water.
+           
+           Lessons last 45 minutes, but I usually train for an hour and a half. During the lesson I swim about two kilometres. My favourite swimming styles are crawl and backstroke.
+           
+           I practice a lot to improve my swimming skills. I want to achieve good results. Last month I participated in a swimming competition. Ten swimmers from three schools took part in the competition. I won first prize.
+           
+           Swimming is my favourite sport. Swimming is interesting and pleasant, and it helps me to keep fit.
+           
+           I also like swimming in the sea and diving for seashells. And I'm learning to dive from a diving board.</h4>
+      </details> 
+   <img src="Images/photo_2024-09-04 20.18.24.jpeg" width="250 height=400" alt="It is me">
+   <em> <blockquote><p>We don't remember <strong>days</strong>,we remember <strong>moments</strong> <br><cite>Yenlik</cite></br></p></blockquote></em>
+   <hr>
+       <p><strong>This page was created by Yenlik</srtong>. To know more about me you can visit this page <a id="aro" href="about me.html">me</a></p>
+</body>
+</html>
